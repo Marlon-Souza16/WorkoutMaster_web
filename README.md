@@ -4,7 +4,7 @@ WorkoutMaster Web
 
 Em caso de dúvidas mais especificas o usuário podera consultar um chatBot interno do web site para suprir suas dúvidas.
 
-Escopo:
+🚀 Escopo:
 
 - Site de treino, com login de usuário e admin;
 - Cada usuário tem uma rotina de treino associada a ele;
@@ -30,11 +30,11 @@ Escopo:
 
 🛠️ Construído com
 
-React - Para desenvolver o front end
-Python - Utilizado para o backend, e para configurar a Api.
-OpenAi - Sera configurada a api para criar um chatbot sobre dúvida de treinos.
-ChromaDb - Sera utilizado como banco de dados vetorial para uso da Api. 
-Mongodb - Banco de dados utilizado.
+- React - Para desenvolver o front end
+- Python - Utilizado para o backend, e para configurar a Api.
+- OpenAi - Sera configurada a api para criar um chatbot sobre dúvida de treinos.
+- ChromaDb - Sera utilizado como banco de dados vetorial para uso da Api. 
+- Mongodb - Banco de dados utilizado.
 
 ✒️ Autores
 
