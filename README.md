@@ -38,7 +38,7 @@ Com uma abordagem centrada no usuário e uma ampla gama de recursos, o presente 
 - Python - Utilizado para o backend, e para configurar a Api.
 - OpenAi - Sera configurada a api para criar um chatbot sobre dúvida de treinos.
 - ChromaDb - Sera utilizado como banco de dados vetorial para uso da Api. 
-- Mongodb - Banco de dados utilizado.
+- MariaDB - Banco de dados utilizado.
 
 ✒️ Autores
 
