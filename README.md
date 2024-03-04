@@ -29,7 +29,7 @@ Com uma abordagem centrada no usuário e uma ampla gama de recursos, o presente 
 
 🔧 Instalação
 
-- Comando para instalar a Api da OpenAi: 'pip install openai'
+- Comando para instalar a Api da OpenAi: pip install openai
 - Comando para instalar o ChromaDB: pip install chromadb
 
 🛠️ Construído com
